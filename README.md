@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi, I'm R Adithya 👋</h1>
+<h1 align="center">Hi, I'm Adithya 👋</h1>
 <h3 align="center">CS undergrad · Networks · AI/ML · Systems · Crypto</h3>
 
 <p align="center">
